@@ -32,7 +32,7 @@ Prerequisites
 
 # Running the Project
 - Clone the Repository
---  https://github.com/aayeshh/tictactoe.git
+--  https://github.com/aayeshh/Tic-Tac-Toe
 - Compile and Run Java Backend
 - Open the HTML file in a Browser
 # File Descriptions
