@@ -13,3 +13,31 @@ This project is a simple implementation of the classic Tic Tac Toe game using Ja
 - Java: Backend logic for game functionality
 - HTML: Structure of the web pages
 - CSS: Styling and layout of the web pages
+
+# Getting Started
+Prerequisites
+- JDK (Java Development Kit) installed
+- Web browser
+
+# Gameplay Instructions
+- Start the Game
+Open index.html in your web browser.
+- Make a Move
+Player 1 is X and Player 2 is O.
+Click on an empty cell in the grid to make a move.
+- Win the Game
+The game will automatically detect if a player has won or if there is a draw.
+Reset the Game
+- Click the "Reset" button to start a new game.
+
+# File Descriptions
+- Java Files
+TicTakToe.java: Contains the main game logic and rules.
+- Web Files
+index.html: Main web page containing the game interface.
+style.css: Stylesheet for the game’s layout and design.
+first.js: JavaScript file to handle frontend interactions and communicate with the Java backend.
+
+# Acknowledgments
+- Thanks to the open-source community for various libraries and frameworks.
+- Inspiration from classic Tic Tac Toe games.
