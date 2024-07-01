@@ -30,6 +30,11 @@ Prerequisites
 - Reset the Game
 - Click the "Reset" button to start a new game.
 
+# Running the Project
+- Clone the Repository
+--  https://github.com/aayeshh/tictactoe.git
+- Compile and Run Java Backend
+- Open the HTML file in a Browser
 # File Descriptions
 - Java Files
 - TicTakToe.java: Contains the main game logic and rules.
