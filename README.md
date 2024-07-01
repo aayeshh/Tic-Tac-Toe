@@ -1,6 +1,5 @@
 # Tic-Tac-Toe
 
-# Overview
 This project is a simple implementation of the classic Tic Tac Toe game using Java for the backend logic and HTML/CSS for the frontend design. The game allows two players to play against each other on a 3x3 grid. The first player to align three of their marks (either X or O) horizontally, vertically, or diagonally wins the game.
 
 # Features
