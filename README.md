@@ -21,22 +21,22 @@ Prerequisites
 
 # Gameplay Instructions
 - Start the Game
-Open index.html in your web browser.
+- Open index.html in your web browser.
 - Make a Move
-Player 1 is X and Player 2 is O.
-Click on an empty cell in the grid to make a move.
+- Player 1 is X and Player 2 is O.
+- Click on an empty cell in the grid to make a move.
 - Win the Game
-The game will automatically detect if a player has won or if there is a draw.
-Reset the Game
+- The game will automatically detect if a player has won or if there is a draw.
+- Reset the Game
 - Click the "Reset" button to start a new game.
 
 # File Descriptions
 - Java Files
-TicTakToe.java: Contains the main game logic and rules.
+- TicTakToe.java: Contains the main game logic and rules.
 - Web Files
-index.html: Main web page containing the game interface.
-style.css: Stylesheet for the game’s layout and design.
-first.js: JavaScript file to handle frontend interactions and communicate with the Java backend.
+- index.html: Main web page containing the game interface.
+- style.css: Stylesheet for the game’s layout and design.
+- first.js: JavaScript file to handle frontend interactions and communicate with the Java backend.
 
 # Acknowledgments
 - Thanks to the open-source community for various libraries and frameworks.
